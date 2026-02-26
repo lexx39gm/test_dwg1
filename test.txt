@@ -1,1 +1,2 @@
-123
+showmessage('Hello');
+showmessage('Hello2');
